@@ -1,3 +1,5 @@
+#`CAST_parallel`
+* forked version for development
 # `CAST` 0.6.0
 * new feature: 
   * trainDI allows to calculate the DI of the training dataset separately from the aoa function
