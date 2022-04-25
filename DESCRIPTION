@@ -1,4 +1,4 @@
-Package: CAST
+Package: CAST_parallel
 Type: Package
 Title: 'caret' Applications for Spatial-Temporal Models
 Version: 0.6.0
