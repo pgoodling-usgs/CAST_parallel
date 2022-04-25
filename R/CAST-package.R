@@ -8,7 +8,7 @@
 #' CAST further includes functionality to estimate the (spatial) area of applicability of prediction models
 #' by analysing the similarity between new data and training data.
 #'
-#' @name CAST
+#' @name CAST_parallel
 #' @docType package
 #' @title 'caret' Applications for Spatial-Temporal Models
 #' @author Hanna Meyer, Marvin Ludwig
